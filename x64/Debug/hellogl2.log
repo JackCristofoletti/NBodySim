@@ -1,0 +1,19 @@
+﻿  moc_glwidget.cpp
+c:\users\jack\desktop\nbodysim\debug\../glwidget.h(63): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\jack\desktop\nbodysim\debug\../glwidget.h(65): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\jack\desktop\nbodysim\debug\../glwidget.h(66): warning C4305: 'initializing': truncation from 'double' to 'float'
+  glwidget.cpp
+c:\users\jack\desktop\nbodysim\glwidget.h(63): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\jack\desktop\nbodysim\glwidget.h(65): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\jack\desktop\nbodysim\glwidget.h(66): warning C4305: 'initializing': truncation from 'double' to 'float'
+glwidget.cpp(235): warning C4305: 'argument': truncation from 'double' to 'float'
+  mainwindow.cpp
+C:\Users\Jack\Desktop\NBodySim\glwidget.h(63): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Jack\Desktop\NBodySim\glwidget.h(65): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Jack\Desktop\NBodySim\glwidget.h(66): warning C4305: 'initializing': truncation from 'double' to 'float'
+  nbodyparticles.cpp
+nbodyparticles.cpp(74): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+nbodyparticles.cpp(81): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  hellogl2.vcxproj -> C:\Users\Jack\Desktop\NBodySim\debug\NBodySim.exe
+  hellogl2.vcxproj -> debug\NBodySim.pdb (Full PDB)

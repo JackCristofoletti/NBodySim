@@ -1,0 +1,11 @@
+﻿  Moc'ing mainwindow.h...
+  Uic'ing mainwindow.ui...
+  main.cpp
+  mainwindow.cpp
+.\glwidget.h(64): warning C4305: 'initializing': truncation from 'double' to 'float'
+.\glwidget.h(65): warning C4305: 'initializing': truncation from 'double' to 'float'
+.\glwidget.h(76): warning C4305: 'argument': truncation from 'double' to 'float'
+mainwindow.cpp(163): warning C4100: 'index': unreferenced formal parameter
+  moc_mainwindow.cpp
+  Generating Code...
+  hellogl2.vcxproj -> C:\Users\Jack\Desktop\NBodySim\release\NBodySim.exe
