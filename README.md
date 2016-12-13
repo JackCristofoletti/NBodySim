@@ -5,3 +5,5 @@ Camera can be panned with the left and right mouse buttons.
 Position can be djusted through wsad keys.
 Bloom/HDR post processing pass after intitial rendering of particles. 
 https://en.wikipedia.org/wiki/Bloom_(shader_effect)
+
+Video of application can be found here: https://www.youtube.com/watch?v=HDs_Coq-uoU
